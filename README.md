@@ -50,7 +50,7 @@ Diseño y desarrollo de un motor de CRM modular capaz de adaptarse a diversos ve
 
 ### 📫 Contacto y Colaboraciones
 
-* **LinkedIn:** [linkedin.com/in/tu-usuario]([https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/oscar-andres-gil/))
-* **Portfolio:** [tu-web-ingenieria.com]
+* **LinkedIn:** [https://www.linkedin.com/in/oscar-andres-gil/](https://www.linkedin.com/in/oscar-andres-gil/)
+* **Portfolio:** [Portafolio Terminal](https://oscarandres16.github.io/codex_personal_portfolio/terminal-portfolio/index.html)
 
 > *"El software es una combinación de arte e ingeniería."*
